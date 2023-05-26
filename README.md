@@ -1,4 +1,4 @@
-# Built and Deployed a TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel using TypeScript
+# Built and Deployed a TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel using TypeScript https://twitter-clone-full-stack-eight.vercel.app/
 
 
 This is a repository for a FullStack Twitter clone using TypeScript, React, NextJS, TailwindCSS & Prisma.
@@ -33,14 +33,6 @@ git clone https://github.com/KnextKoder/Twitter-Clone-FullStack.git
 npm i
 ```
 
-### Setup .env file
-
-
-```js
-DATABASE_URL=
-NEXTAUTH_JWT_SECRET=
-NEXTAUTH_SECRET=
-```
 
 ### Start the app
 
