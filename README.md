@@ -1,4 +1,4 @@
-#LIVE: https://twitter-clone-full-stack-eight.vercel.app/
+###LIVE: https://twitter-clone-full-stack-eight.vercel.app/
 
 
 FullStack Twitter clone with TypeScript, React, NextJS, TailwindCSS & Prisma.
